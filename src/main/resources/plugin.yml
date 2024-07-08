@@ -1,0 +1,8 @@
+name: DiscordMinecraftPlugin
+version: 1.0
+main: my.app.pimaaster77.Bot
+api-version: 1.20
+commands:
+  saludar:
+    description: Saluda desde el plugin.
+    usage: /saludar
