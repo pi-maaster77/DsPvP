@@ -5,6 +5,13 @@
   <artifactId>discord-minecraft-bot</artifactId>
   <version>1.0-SNAPSHOT</version>
   <build>
+    <extensions>
+      <extension>
+        <groupId>kr.motd.maven</groupId>
+        <artifactId>os-maven-plugin</artifactId>
+        <version>1.7.0</version>
+      </extension>
+    </extensions>
     <plugins>
       <plugin>
         <artifactId>maven-shade-plugin</artifactId>

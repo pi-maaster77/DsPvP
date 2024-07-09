@@ -21,6 +21,13 @@
             <artifactId>discord4j-core</artifactId>
             <version>3.2.1</version>
         </dependency>
+
+        <!-- Ngrok dependency -->
+        <dependency>
+            <groupId>com.ngrok</groupId>
+            <artifactId>ngrok-java-17</artifactId>
+            <version>1.0.1</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -54,6 +61,13 @@
                 </executions>
             </plugin>
         </plugins>
+        <extensions>
+            <extension>
+                <groupId>kr.motd.maven</groupId>
+                <artifactId>os-maven-plugin</artifactId>
+                <version>1.7.0</version>
+            </extension>
+        </extensions>
     </build>
 
 
