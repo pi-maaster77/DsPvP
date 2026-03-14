@@ -1,4 +1,11 @@
 name: DiscordMinecraftPlugin
 version: 1.0
 main: my.app.pimaaster77.Bot
-api-version: 1.20
+api-version: 1.12.2
+commands:
+  link:
+    description: Víncula tu cuenta de Minecraft con Discord
+    usage: /link
+  mensajear:
+    description: Muestra la cuenta de Discord vinculada
+    usage: /mensajear

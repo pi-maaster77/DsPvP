@@ -1,0 +1,19 @@
+roles:
+  rojo: "ID_DEL_ROL_ROJO"
+  azul: "ID_DEL_ROL_AZUL"
+  amarillo: "ID_DEL_ROL_AMARILLO"
+  verde: "ID_DEL_ROL_VERDE"
+  aqua: "ID_DEL_ROL_AQUA"
+  violeta: "ID_DEL_ROL_VIOLETA"
+  rosa: "ID_DEL_ROL_ROSA"
+  blanco: "ID_DEL_ROL_BLANCO"
+
+voiceChannels:
+  rojo: "ID_DEL_CANAL_ROJO"
+  azul: "ID_DEL_CANAL_AZUL"
+  amarillo: "ID_DEL_CANAL_AMARILLO"
+  verde: "ID_DEL_CANAL_VERDE"
+  aqua: "ID_DEL_CANAL_AQUA"
+  violeta: "ID_DEL_CANAL_VIOLETA"
+  rosa: "ID_DEL_CANAL_ROSA"
+  blanco: "ID_DEL_CANAL_BLANCO"
